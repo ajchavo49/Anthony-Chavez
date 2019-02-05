@@ -3,7 +3,7 @@
 <h1>Anthony Chavez
 Professional Development</h1>
 
-<h2>Career Buddy: Ryan Becker</h2>
+<h3>Career Buddy: Ryan Becker</h3>
 
 <p>My Links</p>
 
@@ -30,7 +30,7 @@ Professional Development</h1>
                     
 <h3>Paragraph</h3>
                                                                  
-   <p1> I genuinly like to brew honey wine you come to find out there is alot that goes into it Siantifically and practically, From the selection of honey the type of yeast you use can all be factored in. Its a very simple beverage to make but to make mead interesting its good to be creative. But to make it correctly measurment is important. the whole process requires an even balance of qualitative and quantatative aspects to produce a good honey wine.</p1>
+   <p1> I genuinly like to brew honey wine you come to find out there is alot that goes into it Sciantifically and practically, From the selection of honey the type of yeast you use can all be factored in. Its a very simple beverage to make but to make mead interesting its good to be creative. But to make it correctly measurment is important. the whole process requires an even balance of qualitative and quantatative aspects to produce a good honey wine.</p1>
                                                                  
 <h3>Golden Circle</h3>
 <ul>
