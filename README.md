@@ -5,7 +5,7 @@ Professional Development</h1>
 
 <h3>Career Buddy: Ryan Becker</h3>
 
-<p>My Links</p>
+<h3>My Links</h3>
 
     
 <a href=https://www.linkedin.com/in/anthony-chavez-a9913aa1/">LinkedIn</a
