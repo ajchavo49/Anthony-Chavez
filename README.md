@@ -34,7 +34,7 @@ Professional Development</h1>
                                                                  
 <h3>Golden Circle</h3>
 <ul>
-<li>why? I would like to live in a world that has been advanced by technology bettering peoples lives and creating a world that is fun and interactive.</li></ul>
+    <li><h2>why?</h2> I would like to live in a world that has been advanced by technology bettering peoples lives and creating a world that is fun and interactive.</li></ul>
 <ul>
 <li>How? By developing programs and tech to ease peoples lives.</li>
 <li>What? by working with entreprenuers within the state using my newly aquired skills to produce a meaningfull product.</li></ul>
