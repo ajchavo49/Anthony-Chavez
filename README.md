@@ -51,7 +51,7 @@ Professional Development</h1>
   
 <h3>Picture of my visual speaks</h3>
 
-<img src="20190131_101452.jpg"/> alt="fighting dogs"/>
+<img src="20190131_101452.jpg"/>
                                                                  
 <img src="20190131_101506.jpg"/>
                                                                  
