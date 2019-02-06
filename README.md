@@ -53,7 +53,7 @@ Professional Development</h1>
 
 <img src="20190131_101452.jpg"/> alt="fighting dogs"/>
                                                                  
-<img src="20190131_101506.jpg"/> alt="umbrella man with camera"/>
+<img src="20190131_101506.jpg"/>
                                                                  
 <h3>Weekly Reflections</3>
 
