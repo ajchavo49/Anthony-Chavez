@@ -8,7 +8,7 @@ Professional Development</h1>
 <h3>My Links</h3>
 
     
-<a href=https://www.linkedin.com/in/anthony-chavez-a9913aa1/">LinkedIn</a
+<a href="https://www.linkedin.com/in/anthony-chavez-a9913aa1/">LinkedIn</a
     
 <h3>My Learning Style</h3>
 <ul>
