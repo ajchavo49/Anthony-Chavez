@@ -7,6 +7,7 @@ Professional Development</h1>
 
 <h3>My Links</h3>
 
+<a href="Anthony Chavez chavo copy(1).pdf">Resume</a
     
 <a href="https://www.linkedin.com/in/anthony-chavez-a9913aa1/">LinkedIn</a
     
