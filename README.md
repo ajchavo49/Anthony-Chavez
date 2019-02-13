@@ -74,6 +74,14 @@ Professional Development</h1>
     <a href="https://presbyterian-hospital.phs.org/Pages/default.aspx">nonprofit</a>
 <p>I chose this non profit organization because I feel like providing medical care to the community is very important for the health of our community and for our elder community</p>
 <p>Can reach out by phone or e-mail</p>
+<h2>For Profit</h2>
+<ul>
+    <li>Garcia Motors</li>
+    <li>Hilma E. Chynoweth</li>
+    <li>garciacars.com</li>
+    <li>505-260-5183</li>
+    <a href="https://www.garciacars.com/"</a>
+<p>I chose this for profit company because I think it represents good oportunity and will help me achieve my initiatives from my diagram</p>   
     
     
   
