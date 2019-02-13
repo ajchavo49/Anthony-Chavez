@@ -71,7 +71,7 @@ Professional Development</h1>
     <li>Presbeterian</li>
     <li>Dale Maxwell</li>
     <li>505-841-1234</li></ul>
-    <a href="https://presbyterian-hospital.phs.org/Pages/default.aspx">nonprofit</a>
+    <a href="https://presbyterian-hospital.phs.org/Pages/default.aspx"></a>
 <p>I chose this non profit organization because I feel like providing medical care to the community is very important for the health of our community and for our elder community</p>
 <p>Can reach out by phone or e-mail</p>
 <h2>For Profit</h2>
