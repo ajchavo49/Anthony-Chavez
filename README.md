@@ -80,7 +80,7 @@ Professional Development</h1>
     <li>Hilma E. Chynoweth</li>
     <li>garciacars.com</li>
     <li>505-260-5183</li>
-    <a href="https://www.garciacars.com/"/a>
+    <a href="https://www.garciacars.com/"></a>
 <p>I chose this for profit company because I think it represents good oportunity and will help me achieve my initiatives from my diagram</p>   
     
     
