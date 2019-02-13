@@ -7,9 +7,9 @@ Professional Development</h1>
 
 <h3>My Links</h3>
 
-<a href="Anthony Chavez chavo copy(1).pdf">Resume</a
+<a href="Anthony Chavez chavo copy(1).pdf">Resume</a>
     
-<a href="https://www.linkedin.com/in/anthony-chavez-a9913aa1/">LinkedIn</a
+<a href="https://www.linkedin.com/in/anthony-chavez-a9913aa1/">LinkedIn</a>
     
 <h3>My Learning Style</h3>
 <ul>
@@ -40,7 +40,7 @@ Professional Development</h1>
     <li><h4>How?</h4> By developing programs and tech to ease peoples lives.</li>
     <li><h4>What?</h4> by working with entreprenuers within the state using my newly aquired skills to produce a meaningfull product.</li></ul>
 
-<h8>Elevator Pitch</h3>
+<h3>Elevator Pitch</h3>
 
 <h3>Version 1</h3>
  
@@ -65,3 +65,15 @@ Professional Development</h1>
 <h3>Week 3</h3>
 <p> During week 3 we had created a comercial using program software called Vyond, my comercial consisted of an advertisment for a donut company the project was interesting and the program I worked with helped to produce the narroration for my video. We have continued the week by working on our project with unity creating playable games using the software and techniques learned in class and from the program. Along with working on these assighnments I have been working on projects to inhance my portfolio one of them being a podcast using adobe to work with. My other projects consist of working with Garcia Subaru on our SeeAR project and CNM nature walk currently my plate is full but I still enjoy the creativeness.</p>
 
+<h3>2 Organizations</h3>
+<h2>Non Profit</h2>
+<ul>
+    <li>Presbeterian</li>
+    <li>Dale Maxwell</li>
+    <li>505-841-1234</li></ul>
+    <a href="https://presbyterian-hospital.phs.org/Pages/default.aspx">nonprofit</a>
+<p>I chose this non profit organization because I feel like providing medical care to the community is very important for the health of our community and for our elder community</p>
+<p>Can reach out by phone or e-mail</p>
+    
+    
+  
